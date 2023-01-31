@@ -1,1 +1,3 @@
 git ödevini tamamlıyorum.
+
+master branchten yazmaya başladım.
